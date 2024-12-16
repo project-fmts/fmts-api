@@ -30,7 +30,7 @@ This guide explains how to set up and run the fmts-api locally on your machine.
 ### 3. Run the Application
 1. Start the application:
    ```bash
-   node index.js
+   npm run start
    ```
 2. Open your browser and go to:
    ```bash
